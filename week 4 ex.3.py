@@ -1,0 +1,5 @@
+#text=ord("A")
+#text2=chr("65")
+#roundNo=round("2.346")
+roundNo=abs(2.346)
+print(roundNo)
